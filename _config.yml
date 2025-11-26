@@ -181,6 +181,7 @@ exclude:
   - _pages/blog.md # no blog yet
   - _pages/books.md # no books yet
   - _pages/cv.md # no CV
+  - _pages/profiles.md # use project-like people setup instead
   - _posts/ #
   - bin/
   - CONTRIBUTING.md
