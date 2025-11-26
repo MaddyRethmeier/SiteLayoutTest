@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Teams & Projects
+title: project
 permalink: /projects/
-description: Research Teams and Projects.
+description: Ongoing and completed research projects.
 nav: true
 nav_order: 3
-display_categories: [Teams, Projects]
+display_categories: [ongoing, completed]
 horizontal: false
 ---
 

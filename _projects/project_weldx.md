@@ -4,7 +4,7 @@ title: WelDX
 description: The welding data exchange format
 img: assets/img/WelDX.png
 importance: 1
-category: projects
+category: ongoing
 related_publications: false
 ---
 

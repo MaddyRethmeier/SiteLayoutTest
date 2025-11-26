@@ -144,10 +144,10 @@ newsletter:
 collections:
   books:
     output: false
-  news:
-    defaults:
-      layout: post
-    output: true
+  # news:
+  #   defaults:
+  #     layout: post
+  #   output: true
   projects:
     output: true
     permalink: /:collection/:title/
