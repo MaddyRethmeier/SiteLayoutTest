@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: 9.3Pikto.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Unter den Eichen 87</p>
     <p>12205 Berlin, Germany</p>
