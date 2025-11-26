@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research Teams and Projects.
 nav: true
 nav_order: 3
-display_categories: [teams, projects]
+display_categories: [Teams, Projects]
 horizontal: false
 ---
 
