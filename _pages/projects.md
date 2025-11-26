@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Teams & Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research Teams and Projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [teams, projects]
 horizontal: false
 ---
 
