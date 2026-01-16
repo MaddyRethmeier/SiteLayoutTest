@@ -14,5 +14,11 @@ profiles:
     content: equipment/arc_welding_setup.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Arc welding setup</p>
+      <p>Arc welding setup description</p>
+  - align: left
+    image: equipment/arc_welding_setup.jpg
+    content: equipment/laser_welding_setup.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Laser welding setup description</p>
 ---

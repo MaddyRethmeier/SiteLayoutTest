@@ -1,0 +1,2 @@
+- Laser source
+- welding robots
