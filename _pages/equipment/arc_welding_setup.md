@@ -1,0 +1,3 @@
+- YASKAWA robots
+- Fronius Power Sources
+- Custom sensor integration

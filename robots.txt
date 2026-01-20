@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://MaddyRethmeier.github.io/SiteLayoutTest/sitemap.xml
